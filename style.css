@@ -1,0 +1,25 @@
+/* Global */
+nav{
+	background: #178FAB;
+	padding:15px;
+}
+nav a{
+	margin:10px 10px 10px 10px;
+	color:#fff;
+	text-decoration:none; 
+	padding:10px;
+	border-radius: 5px;
+}
+nav a:hover{
+	color:#000;
+	background:#fff;
+	transition: 0.5s;
+} 
+/* Home */
+/* About */
+.about-bg img{
+	height:500px;
+	width:500px;
+	
+}
+/* Contact */
